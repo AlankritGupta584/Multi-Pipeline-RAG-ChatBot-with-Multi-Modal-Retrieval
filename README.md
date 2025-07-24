@@ -3,6 +3,9 @@
 ### SURGE 2025 | Indian Institute of Technology, Kanpur
 #### by Arsh Jaswal (github.com/arshcwb) and Amish Verma (github.com/amish-verma5)
 
+## Check this out!
+https://linktr.ee/surgeRAG
+
 ## Description
 This project, developed during SURGE 2025 at IIT Kanpur under the mentorship of **Prof. Salman Ahmad Khan** (*Department of Chemical Engineering*), presents a **Retrieval-Augmented Generation** (RAG)-based chatbot designed for context-aware retrieval and natural language interaction in research-related queries. The system under directory:
 ```bash
